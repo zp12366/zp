@@ -6,16 +6,16 @@
 
 - 据下图中的圈出部分，点击 file  -》 Project Structure 进入项目的配置界面
 
-  ![Image test](https://github.com/zp12366/zp/blob/master/static/img/doc/file2ProjectStruct.PNG)
+  ![Image](./static/img/doc/file2ProjectStruct.PNG)
 
 - 根据如下图，配置项目的SDK的项目配置，其中的 out 目录，根据自己的实际目录配置
 
-  ![Image test](https://github.com/zp12366/zp/blob/master/static/img/doc/project.PNG)
+  ![Image](./static/img/doc/project.PNG)
   
 - 根据如下两张图，分别配置项目的 source 目录，以及 out(target) 目录
 
-  ![Image test](https://github.com/zp12366/zp/blob/master/static/img/doc/src.PNG)
-  ![Image test](https://github.com/zp12366/zp/blob/master/static/img/doc/excluded.PNG)
+  ![Image](./static/img/doc/src.PNG)
+  ![Image](./static/img/doc/excluded.PNG)
 
 
 ### II. java 类编译运行基础过程
