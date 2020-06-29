@@ -7,7 +7,7 @@ public class Class6 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input your want know:");
-        String v= scanner.nextLine();
+        String v = scanner.nextLine();
        switch (v) {
            case "name":
                System.out.println("zp");
