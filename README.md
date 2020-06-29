@@ -47,17 +47,17 @@
 - 类的方法名应为驼峰式命名，首字母小写，后续单词首字母大写，如：
 
 正确:
-> public function main(){}
+> public main(){}
 
-> public function getUser(){}
+> public getUser(){}
 
 错误：
-> public function Main(){}
+> public Main(){}
 
-> public function GetUser(){}
+> public GetUser(){}
 
-> public function _getUser(){}
+> public _getUser(){}
 
-> public function get_user(){}
+> public get_user(){}
 
 - ~ 其它待补充...
