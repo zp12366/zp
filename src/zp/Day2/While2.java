@@ -5,9 +5,9 @@ public class While2 {
         int[] a = { 1 , 2 , 3 , 4 , 5 };
         int i = 0;
         do {
-            System.out.println( a[i] );
+            System.out.println(a[i]);
             i++;
-        } while ( i<a.length );
+        } while (i < a.length);
 
     }
 }
